@@ -1,0 +1,24 @@
+{
+  "name": "microsoft70-480",
+  "version": "1.0.0",
+  "description": "cert prep",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.18.5"
+  },
+  "scripts": {
+    "start": "browser-sync start --files ., !.gitignore",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/langz/microsoft70-480.git"
+  },
+  "author": "anders.langseth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/langz/microsoft70-480/issues"
+  },
+  "homepage": "https://github.com/langz/microsoft70-480#readme"
+}
