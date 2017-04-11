@@ -1,6 +1,6 @@
 # Microsoft70-480
 [Microsoft 70-480](https://www.microsoft.com/en-us/learning/exam-70-480.aspx) preperation for [Ahmad](https://github.com/ahamadeh)
- 
+ [Preperation Guide](https://spviking.wordpress.com/2012/12/08/70-480-exam-preparation-guide/)
 
 
 ## Getting Started
@@ -22,7 +22,7 @@ Links on top of links on top of links
 
 ### Study Guides
 
-* :star: [Exam Ref 70‑480 Programming in HTML5 with JavaScript and CSS3](https://github.com/ahamadeh/microsoft70-480/blob/master/material/70-480_Exam_Reference.pdf)
+* :star: [Exam Ref 70‑480 Programming in HTML5 with JavaScript and CSS3](https://github.com/ahamadeh/microsoft_70-480/blob/master/material/70-480_Exam_Reference.pdf)
 * [Savtechsol Exam 70-480 Study Guide](http://www.savtechsol.com/Education/Exam-Prep/Pages/Exam-70-480-Study-Guide.aspx)
 * [Youtube Exam Prep Session for Exam 70-480](https://www.youtube.com/watch?v=ZNU73-7BcdM)
 * :star: [Firebrand](https://onedrive.live.com/?id=C51072313481E220%2111175&cid=C51072313481E220)

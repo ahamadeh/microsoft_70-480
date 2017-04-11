@@ -1,0 +1,35 @@
+div {
+    min-height: 100px;
+    width: 20%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    background-color: azure;
+    color: blue;
+    border-color: currentColor;
+    border-width: 4px;
+    border:solid;
+    margin: 10px;
+
+}
+span:nth-of-type(2){
+    background-color: green;
+}
+
+span:nth-last-of-type(2){
+    background-color: aqua;
+}
+
+.testText{
+    border-width: 5px;
+    border:solid;
+   color:blue;
+   border: currentColor;
+}
+
+#two{
+    position: fixed;
+    top: 10px;
+    left:300px;
+
+}
