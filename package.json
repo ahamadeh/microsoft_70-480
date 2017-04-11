@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "cert prep",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "express": "^4.15.2"
+  },
   "devDependencies": {
     "browser-sync": "^2.18.5"
   },
